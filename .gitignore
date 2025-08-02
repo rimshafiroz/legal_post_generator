@@ -23,9 +23,9 @@ wheels/
 
 # Virtual environments
 venv/
-env/
+env
 .venv/
-.env/
+.env
 
 # IDEs
 .vscode/
@@ -44,3 +44,6 @@ Thumbs.db
 
 # Log files
 post_sent.txt
+
+
+.env

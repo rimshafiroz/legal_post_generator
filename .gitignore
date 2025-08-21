@@ -21,11 +21,11 @@ wheels/
 .installed.cfg
 *.egg
 
-# Virtual environments
-venv/
-env
-.venv/
-.env
+# # Virtual environments
+# venv/
+# env
+# .venv/
+# .env
 
 # IDEs
 .vscode/

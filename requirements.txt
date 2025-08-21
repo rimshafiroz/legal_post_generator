@@ -1,2 +1,5 @@
 streamlit
 requests
+python-dotenv
+Pillow
+gnews4py

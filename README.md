@@ -153,7 +153,7 @@ python reminder.py
 ## Supported Legal Niches
 
 - Corporate Law
-- Family Law  
+- Family Law
 - Criminal Law
 - Intellectual Property
 - Immigration Law
